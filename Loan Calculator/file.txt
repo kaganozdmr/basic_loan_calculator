@@ -1,3 +1,5 @@
+tihs a example for file.txt
+
 Amount of loan received: 10000 
 Loan amount to be paid 11200.00 
 1 .month amount to be paid  :>> 622.22 
