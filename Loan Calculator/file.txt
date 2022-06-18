@@ -1,0 +1,14 @@
+Amount of loan received: 10000 
+Loan amount to be paid 11200.00 
+1 .month amount to be paid  :>> 622.22 
+2 . month amount to be paid  :>> 933.33 
+3 . month amount to be paid  :>> 933.33 
+4 . month amount to be paid  :>> 933.33 
+5 . month amount to be paid  :>> 933.33 
+6 . month amount to be paid  :>> 933.33 
+7 . month amount to be paid  :>> 933.33 
+8 . month amount to be paid  :>> 933.33 
+9 . month amount to be paid  :>> 933.33 
+10 . month amount to be paid  :>> 933.33 
+11 . month amount to be paid  :>> 933.33 
+12 .month amount to be paid  :>> 1244.44 
